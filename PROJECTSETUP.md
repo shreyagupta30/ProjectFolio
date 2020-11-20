@@ -1,12 +1,3 @@
-<div align="center">
-<h1>MLH Fellowship ProjectFolio</h1>
-
-[![GitHub issues](https://img.shields.io/github/issues/shreyagupta30/ProjectFolio?logo=github)](https://github.com/shreyagupta30/ProjectFolio/issues)
-
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/shreyagupta30/ProjectFolio/blob/master/.pre-commit-config.yaml)
-[![License](https://img.shields.io/github/license/shreyagupta30/ProjectFolio)](https://github.com/shreyagupta30/ProjectFolio/blob/master/LICENSE)
-</div>
-
 ## Installation and Setup
 
 ### Prerequisites
@@ -57,5 +48,3 @@ This project tried to follow the best practices and you can directly deploy the 
     - `index.js` and related files in `./src/` and `app.js` and related files in `./src/components/`
     - `demo` folder from `./backend/` 
 
-## Thank you!
-If you find this project useful, please Leave a star on this repo!
