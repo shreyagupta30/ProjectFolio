@@ -1,8 +1,10 @@
 ![ProjectFolio banner](screenshots/banner_wide.jpg)
 
+<br>
 <p align="center">
   <p align="center">
-    Detailed Portfolio of Projects which fellows had contributed during their fellowship. A project showcase page for MLH Fellowship website.
+    <b>Detailed Portfolio of Projects which fellows had contributed during their fellowship. A project showcase page for MLH Fellowship website.</b>
+    <br />
     <br />
     <a href="">Devpost</a>
     .
