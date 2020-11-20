@@ -67,4 +67,4 @@ _Also, why not try yourself and suggest more such interesting features which are
 
 **Contributions are always welcome  💕**
 
-Follow  [instructions mentioned here](https://github.com/shreyagupta30/ProjectPage/PROJECTSETUP.md)  to setup Environment get started
+Follow  [instructions mentioned here](PROJECTSETUP.md)  to setup Environment get started
