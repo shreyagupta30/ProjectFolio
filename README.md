@@ -1,5 +1,4 @@
 ![ProjectFolio banner](screenshots/banner_wide.jpg)
-
 <br>
 <p align="center">
   <p align="center">
