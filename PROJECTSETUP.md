@@ -1,22 +1,11 @@
 <div align="center">
 <h1>MLH Fellowship ProjectFolio</h1>
 
-[![GitHub issues](https://img.shields.io/github/issues/shubhank-saxena/djangoReact-template?logo=github)](https://github.com/shubhank-saxena/djangoReact-template/issues)
-![Size](https://github-size-badge.herokuapp.com/shubhank-saxena/djangoReact-template.svg) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shubhank-saxena/djangoReact-template)
+[![GitHub issues](https://img.shields.io/github/issues/shreyagupta30/ProjectFolio?logo=github)](https://github.com/shreyagupta30/ProjectFolio/issues)
 
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/shubhank-saxena/djangoReact-template/blob/master/.pre-commit-config.yaml)
-[![License](https://img.shields.io/github/license/shubhank-saxena/djangoReact-template)](https://github.com/shubhank-saxena/djangoReact-template/blob/master/LICENSE)
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/shreyagupta30/ProjectFolio/blob/master/.pre-commit-config.yaml)
+[![License](https://img.shields.io/github/license/shreyagupta30/ProjectFolio)](https://github.com/shreyagupta30/ProjectFolio/blob/master/LICENSE)
 </div>
-
-<strong>This is the most convenient starter template of Django+React code with following features - 
-- Django serving React 
-- Contains all the dependencies required to create django-rest-api.
-- Contains pre-commit for optimized and clean code.
-- Secure application with production grade env system.
-
-A perfect template for you to focus on starting your hack project or your deployed project. Leave all the gibberish of setup and just focus on innovating and creating amazing tech :heart:</strong>
-
-
 
 ## Installation and Setup
 
@@ -101,5 +90,4 @@ Please follow a systematic Git Workflow -
 - [ ] Create a AWS deployment branch
 
 ## Thank you!
-If you find this project useful, please Leave a star on this repo! Also, if you can , buy me coffee! :heart:
-<a href="https://www.buymeacoffee.com/shubhanksaxena" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+If you find this project useful, please Leave a star on this repo!
