@@ -1,5 +1,5 @@
 <div align="center">
-<h1>djangoReact Template</h1>
+<h1>MLH Fellowship ProjectFolio</h1>
 
 [![GitHub issues](https://img.shields.io/github/issues/shubhank-saxena/djangoReact-template?logo=github)](https://github.com/shubhank-saxena/djangoReact-template/issues)
 ![Size](https://github-size-badge.herokuapp.com/shubhank-saxena/djangoReact-template.svg) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shubhank-saxena/djangoReact-template)
