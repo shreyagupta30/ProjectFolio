@@ -13,10 +13,10 @@
   
   
   <!-- <h3 align="center">Experience the magic ✨ at <a href="">link</a></h4> -->
-  <h4 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h5>
-  <h5 align="center">Made with ❤️ by  <a href="https://github.com/shubhank-saxena">Shubhank</a> , <a href="https://github.com/iamabhishek0">Abhishek</a> , 
-  <a href="https://github.com/shreyagupta30">Shreya</a> , <a href="https://github.com/NitishGadangi">Nitish</a></h3>
-  <h5 align="center">MLH Fellowship - Halfway Hackathon</h3>
+  <h4 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h>
+  <h5 align="center">Made with ❤️ by  <a href="https://github.com/shubhank-saxena">Shubank</a> , <a href="https://github.com/iamabhishek0">Abhishek</a> , 
+  <a href="https://github.com/shreyagupta30">Shreya</a> , <a href="https://github.com/NitishGadangi">Nitish</a></h5>
+  <h5 align="center">MLH Fellowship - Halfway Hackathon</h5>
   </p>
 </p>
 </br>
@@ -59,3 +59,8 @@ _Also, why not try yourself and suggest more such interesting features which are
 **Contributions are always welcome  💕**
 
 Follow  [instructions mentioned here](PROJECTSETUP.md)  to setup Environment get started
+
+Refer [Contribution Guidelines](CONTRIBUTION.md) to understand the best practices.
+
+
+**Drop a star ⭐ if you find this project interesting!**
