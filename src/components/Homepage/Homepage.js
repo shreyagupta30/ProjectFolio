@@ -1,4 +1,6 @@
 import React from 'react';
+import Timeline from './Timeline';
+import OrgHomepage from './OrgHomepage';
 
 function Homepage() {
     return (
@@ -33,6 +35,8 @@ function Homepage() {
                 <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Apply Now!</button>
         </div>
         </section>
+        <Timeline />
+        <OrgHomepage />
         </>
     );
 }
