@@ -12,8 +12,8 @@
    <a href="#contribution">Contribute</a>
   
   
-  <h3 align="center">Experience the magic ✨ at <a href="">link</a></h4>
-  <h5 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h5>
+  <!-- <h3 align="center">Experience the magic ✨ at <a href="">link</a></h4> -->
+  <h4 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h5>
   <h5 align="center">Made with ❤️ by  <a href="https://github.com/shubhank-saxena">Shubank</a> , <a href="https://github.com/iamabhishek0">Abhisek</a> , 
   <a href="https://github.com/shreyagupta30">Shreya</a> , <a href="https://github.com/NitishGadangi">Nitish</a></h3>
   <h5 align="center">MLH Fellowship - Halfway Hackathon</h3>
@@ -46,15 +46,6 @@ The whole design and UI are developed to be in sync with the existing fellowship
 
 ### Screenshots
 > Screenshots comes here
-
-## How it was built
-
-## Challenges we ran into
-
-## What we learned
-
-## Accomplishments that we're proud of
-Building something which showcases the precise details about what fellows are working in real-time to the outer world. and something which the MLH Fellowship website lacks and worth adding to it.
 
 ## What's next for ProjectFolio
 Some features which are currently in pipeline
