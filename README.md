@@ -13,8 +13,8 @@
    <a href="#contribution">Contribute</a>
   
   
-  <h4 align="center">Experience the magic ✨ at <a href="">link</a></h4>
-  <h5 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h4>
+  <h3 align="center">Experience the magic ✨ at <a href="">link</a></h4>
+  <h5 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h5>
   <h5 align="center">Made with ❤️ by  <a href="https://github.com/shubhank-saxena">Shubank</a> , <a href="https://github.com/iamabhishek0">Abhisek</a> , 
   <a href="https://github.com/shreyagupta30">Shreya</a> , <a href="https://github.com/NitishGadangi">Nitish</a></h3>
   <h5 align="center">MLH Fellowship - Halfway Hackathon</h3>
