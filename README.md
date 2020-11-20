@@ -1,105 +1,70 @@
-<div align="center">
-<h1>djangoReact Template</h1>
+![ProjectFolio banner]()
 
-[![GitHub issues](https://img.shields.io/github/issues/shubhank-saxena/djangoReact-template?logo=github)](https://github.com/shubhank-saxena/djangoReact-template/issues)
-![Size](https://github-size-badge.herokuapp.com/shubhank-saxena/djangoReact-template.svg) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shubhank-saxena/djangoReact-template)
-
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/shubhank-saxena/djangoReact-template/blob/master/.pre-commit-config.yaml)
-[![License](https://img.shields.io/github/license/shubhank-saxena/djangoReact-template)](https://github.com/shubhank-saxena/djangoReact-template/blob/master/LICENSE)
-</div>
-
-<strong>This is the most convenient starter template of Django+React code with following features - 
-- Django serving React 
-- Contains all the dependencies required to create django-rest-api.
-- Contains pre-commit for optimized and clean code.
-- Secure application with production grade env system.
-
-A perfect template for you to focus on starting your hack project or your deployed project. Leave all the gibberish of setup and just focus on innovating and creating amazing tech :heart:</strong>
-
-
-
-## Installation and Setup
-
-### Prerequisites
-- You should have NodeJS installed (12.x or above)
-- pipenv should be installed in the system. It can be done using `sudo pip3 install pipenv`.
-- Change the version of the python in `Pipfile` according to the python version available in your system
-
-
-### Setup and running of project (Frontend + Backend)
-
-- Fork the repo and clone it.
-- Navigate to the cloned repo.
-- Activate env using `pipenv shell` and install dependencies by `pipenv install`
-- Install all react dependencies by running `yarn install`
-- Run `build_local.sh`. (Make sure it's in executable mode by `sudo chmod +x build_local.sh`)
-- Start the backend server
-  `python ./manage.py runserver`
+<p align="center">
+  <p align="center">
+    Detailed Portfolio of Projects which fellows had contributed during their fellowship. A project showcase page for MLH Fellowship website.
+    <br />
+    <a href="">Devpost</a>
+    .
+    <a href="https://github.com/shreyagupta30/ProjectPage/issues">Report Bug</a>
+    .
+   <a href="#contribution">Contribute</a>
   
-**This runs the backend server at default port `8000`.
-  Open [http://localhost:8000](http://localhost:8000) to view it in the browser.**<br />
+  
+  <h4 align="center">Experience the magic ✨ at <a href="">link</a></h4>
+  <h5 align="center">Check out the Demo Video 📽 on <a href="">Youtube</a></h4>
+  <h5 align="center">Made with ❤️ by  <a href="https://github.com/shubhank-saxena">Shubank</a> , <a href="https://github.com/iamabhishek0">Abhisek</a> , 
+  <a href="https://github.com/shreyagupta30">Shreya</a></h3> ,
+  <a href="https://github.com/NitishGadangi">Nitish</a></h3>
+  <h5 align="center">MLH Fellowship - Halfway Hackathon</h3>
+  </p>
+</p>
+</br>
 
-### Setup and running of project (Only Frontend)
 
-- At your root directory run `yarn install` to install all the dependencies
-- To start react dev server `yarn start`
 
-This runs the app in the development mode.
-**Open [http://localhost:3000](http://localhost:3000) to view it in the browser.**
+## Inspiration
+Most of the opensource programme similar to MLH Fellowship has a seperate page where they show case list of all projects and contributions made by each fellow during the programme. For instance GSoC maintains an archive of all Organizations and detailed information about all Mentors, student and maintainers who worked for each project. This is something MLH fellowship is lacking at this point of time.
 
-The page will reload if you make edits.
+Maintaining an archive of all contributions to each project will not only allow us to showcase stuff, But it will also act as a huge resource for upcoming fellows as they can easily find all the Fellows / Mentors / Maintainers of previous batches who have contributed to any particular project and can directly reach them out in case of any help which is one of major issue which we have faced in the initial days of fellowship when we got assigned to a project.
 
-## Production grade deployment
-This project tried to follow the best practices and you can directly deploy the repo with the following points -
+Moreover peeps who are still not into fellowship can have a look at whats actually going on in the backend. This inturn can inspire many students to start contributing to these opensource projects.
 
-- Create an .env in your deployment environment(refer .env.example file for the same).
-    - For django `SECRET_KEY` you can generate one from [here](https://djecrety.ir/)
-    - Set DEBUG = 'False' when using in production/live deployment.
-- Add the hostname/url(the one on which your deployed server is working) in the `settings.py` file (under allowed hosts array)
-- Add your suitable `TIME_ZONE` and `LANGUAGE_CODE` in `settings.py` according to your zone and locale.
+## What it does
+ProjectFolio provides list of all Projects which fellows had contributed to (right from batch 0). 
+* Projects can be filtered based on Individual batches, pods or even techstack. 
+* There is Global search feature where any mentor, fellow, or maintainer name can be mentioned to find all the projects that are relating to them.
 
-#### Note [Important]
+For each Project 
+* All the PRs which are submitted by fellows during MLH Fellowship are listed in detail. 
+* Also details of all the mentors, maintainers and fellows who have supported or contributed to that particular project are mentioned.
+* And, if any of the contributions are missing fellows can easily login through Github Auth and add their contributions and other details about the project they have contributed to.
 
-- The `manage.py` file is moved out of the default django project. So everytime you run `manage.py startapp app`, it will create the required app in the root of the project. So you will have to move it in the backend folder and while registering the app in `settings.py`, you will have to mention `backend.app`.
-- The `config` folder in the backend directory is the actual root project of the django project (one which has django settings and main app urls).
-- There is a folder named `demo` in the backend folder. That's a demo api folder for reference.
-- This project has pre-commit. So if you are using this project on which a lot of people are contributing, make sure you run `pre-commit install` in the project repo so that git hooks are enabled.
-- Stuff you can delete (I added them just to refer)
-    - `index.js` and related files in `./src/` and `app.js` and related files in `./src/components/`
-    - `demo` folder from `./backend/` 
+Thus it will be super easy to find any particular project and get details of all the previous projects and respective "point of contact" to get more help.
 
-## Contribution to the project
+The whole design and UI is developed to be in sync with existing fellowship website so that it can easily integrated into to website if required.
 
-<div align="center">
+### Screenshots
+> Screenshots comes here
 
-[![GitHub issues](https://img.shields.io/github/issues/shubhank-saxena/djangoReact-template?logo=github)](https://github.com/shubhank-saxena/djangoReact-template/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/shubhank-saxena/djangoReact-template?logo=git&logoColor=white)
+## How it was built
 
-</div>
+## Challenges we ran into
 
-### Git workflow
+## What we learnt
 
-Please follow a systematic Git Workflow -
+## Accomplishments that we're proud of
+Building something which showcases the precise details about what fellows are working in realitime to the outer world. and something which MLH Fellowship website lacks and worth adding to it.
 
-- Create a fork of this repo.
-- Clone your fork of your repo on your pc.
-- [Add Upstream to your clone](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
-- **Every change** that you do, it has to be on a branch. Commits on master would directly be closed.
-- Make sure that before you create a new branch for new changes,[syncing with upstream](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) is neccesary.
+## What's next for ProjectFolio
+Some features which are currently in pipeline
+* Add Profile page for each Mentor, Maintainer and Fellow
+* Also make provision for each othem to login using GitHub auth and edit profiles and contributions displayed under their profile.
 
-### Commits
+_Also, why not try yourself and suggest more such interesting features which are good to have_
 
-- Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
-- Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
-- When you make very very minor changes to a PR of yours (like for example fixing a failing Travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
-- When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
+## Contribution
 
-## Todo
-- [ ] Create a pip package (current focus)
-- [ ] Create a CI/CD branch to automate testing (if any)
-- [ ] Create a GCP Deployment (both engine and VM) branch
-- [ ] Create a Azure deployment branch
-- [ ] Create a AWS deployment branch
+**Contributions are always welcome  💕**
 
-## Thank you!
-If you find this project useful, please Leave a star on this repo! Also, if you can , buy me coffee! :heart:
-<a href="https://www.buymeacoffee.com/shubhanksaxena" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Follow  [instructions mentioned here](https://github.com/shreyagupta30/ProjectPage/PROJECTSETUP.md)  to setup Environment get started
