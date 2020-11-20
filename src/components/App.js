@@ -1,18 +1,23 @@
 import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+
 import Navbar from './Navbar';
-import Homepage from './Homepage';
-import OrgHomepage from './OrgHomepage';
-import Timeline from './Timeline';
+import Homepage from './Homepage/Homepage';
+import OrgList from './OrgPage';
+
 import Footer from './Footer';
 
 function App() {
   return (
     <>
+    <Router>
       <Navbar />
-      <Homepage />
-      <OrgHomepage />
-      <Timeline />
+      <Switch>
+        <Route exact path="/" component={Homepage} />
+        <Route exact path= "/projects" component={OrgList} />
+      </Switch>
       <Footer />
+    </Router>
     </>
   );
 }
