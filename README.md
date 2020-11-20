@@ -24,25 +24,25 @@
 
 
 ## Inspiration
-Most of the opensource programme similar to MLH Fellowship has a seperate page where they show case list of all projects and contributions made by each fellow during the programme. For instance GSoC maintains an archive of all Organizations and detailed information about all Mentors, student and maintainers who worked for each project. This is something MLH fellowship is lacking at this point of time.
+Most of the opensource programs that similar to MLH Fellowship have a separate page where they showcase a list of all projects and contributions made by each fellow during the program. For instance, GSoC maintains an archive of all Organizations and detailed information about all Mentors, students, and maintainers who worked on each project. This is something MLH fellowship is lacking at this point.
 
-Maintaining an archive of all contributions to each project will not only allow us to showcase stuff, But it will also act as a huge resource for upcoming fellows as they can easily find all the Fellows / Mentors / Maintainers of previous batches who have contributed to any particular project and can directly reach them out in case of any help which is one of major issue which we have faced in the initial days of fellowship when we got assigned to a project.
+Maintaining an archive of all contributions to each project will not only allow us to showcase stuff, But it will also act as a huge resource for upcoming fellows as they can easily find all the Fellows / Mentors / Maintainers of previous batches who have contributed to any particular project and can directly reach them out in case of any help which is one of the major issues which we have faced in the initial days of fellowship when we got assigned to a project.
 
-Moreover peeps who are still not into fellowship can have a look at whats actually going on in the backend. This inturn can inspire many students to start contributing to these opensource projects.
+Moreover, peeps who are still not into fellowship can have a look at what's going on in the backend. This in turn can inspire many students to start contributing to these open-source projects.
 
 ## What it does
-ProjectFolio provides list of all Projects which fellows had contributed to (right from batch 0). 
-* Projects can be filtered based on Individual batches, pods or even techstack. 
-* There is Global search feature where any mentor, fellow, or maintainer name can be mentioned to find all the projects that are relating to them.
+ProjectFolio provides a list of all Projects which fellows had contributed to (right from batch 0). 
+* Projects can be filtered based on Individual batches, pods, or even tech stack. 
+* There is a Global search feature where any mentor, fellow, or maintainer name can be mentioned to find all the projects that are relating to them.
 
 For each Project 
 * All the PRs which are submitted by fellows during MLH Fellowship are listed in detail. 
-* Also details of all the mentors, maintainers and fellows who have supported or contributed to that particular project are mentioned.
+* Also details of all the mentors, maintainers, and fellows who have supported or contributed to that particular project are mentioned.
 * And, if any of the contributions are missing fellows can easily login through Github Auth and add their contributions and other details about the project they have contributed to.
 
 Thus it will be super easy to find any particular project and get details of all the previous projects and respective "point of contact" to get more help.
 
-The whole design and UI is developed to be in sync with existing fellowship website so that it can easily integrated into to website if required.
+The whole design and UI are developed to be in sync with the existing fellowship website so that it can easily be integrated into to website if required.
 
 ### Screenshots
 > Screenshots comes here
@@ -51,15 +51,15 @@ The whole design and UI is developed to be in sync with existing fellowship webs
 
 ## Challenges we ran into
 
-## What we learnt
+## What we learned
 
 ## Accomplishments that we're proud of
-Building something which showcases the precise details about what fellows are working in realitime to the outer world. and something which MLH Fellowship website lacks and worth adding to it.
+Building something which showcases the precise details about what fellows are working in real-time to the outer world. and something which the MLH Fellowship website lacks and worth adding to it.
 
 ## What's next for ProjectFolio
 Some features which are currently in pipeline
-* Add Profile page for each Mentor, Maintainer and Fellow
-* Also make provision for each othem to login using GitHub auth and edit profiles and contributions displayed under their profile.
+* Add Profile page for each Mentor, Maintainer, and Fellow
+* Also make provision for each of them to login using GitHub auth and edit profiles and contributions displayed under their profile.
 
 _Also, why not try yourself and suggest more such interesting features which are good to have_
 
