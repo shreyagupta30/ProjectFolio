@@ -1,15 +1,18 @@
 import React from 'react';
-import {Container} from 'react-bootstrap';
-import Navbars from './Navbar';
+import Navbar from './Navbar';
 import Homepage from './Homepage';
+import OrgHomepage from './OrgHomepage';
+import Timeline from './Timeline';
+import Footer from './Footer';
 
 function App() {
   return (
     <>
-      <Navbars />
-      <Container>
-        <Homepage />
-      </Container>
+      <Navbar />
+      <Homepage />
+      <OrgHomepage />
+      <Timeline />
+      <Footer />
     </>
   );
 }
