@@ -13,19 +13,19 @@ function Homepage() {
                     <div className="leading-relaxed">Spend 12-weeks remotely leveling up your skills & building out your portfolio under the guidance of an expert mentor.</div>
                 </div>
                 <div className="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-                    <h2 className="title-font font-medium text-3xl text-white">500</h2>
+                    <h2 className="title-font font-medium text-3xl text-white">200+</h2>
                     <p className="leading-relaxed">Fellows</p>
                 </div>
                 <div className="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-                    <h2 className="title-font font-medium text-3xl text-white">100</h2>
+                    <h2 className="title-font font-medium text-3xl text-white">100+</h2>
                     <p className="leading-relaxed">Places</p>
                 </div>
                 <div className="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-                    <h2 className="title-font font-medium text-3xl text-white">35</h2>
+                    <h2 className="title-font font-medium text-3xl text-white">35+</h2>
                     <p className="leading-relaxed">Open Sources organisations</p>
                 </div>
                 <div className="p-4 sm:w-1/2 lg:w-1/4 w-1/2">
-                    <h2 className="title-font font-medium text-3xl text-white">100</h2>
+                    <h2 className="title-font font-medium text-3xl text-white">100+</h2>
                     <p className="leading-relaxed">Projects</p>
                 </div>
                 </div>
