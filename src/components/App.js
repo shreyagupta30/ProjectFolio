@@ -10,14 +10,14 @@ import Footer from './Footer';
 function App() {
   return (
     <>
-    <Router>
-      <Navbar />
-      <Switch>
-        <Route exact path="/" component={Homepage} />
-        <Route exact path= "/projects" component={OrgList} />
-      </Switch>
-      <Footer />
-    </Router>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={Homepage} />
+          <Route exact path="/projects" component={OrgList} />
+        </Switch>
+        <Footer />
+      </Router>
     </>
   );
 }
