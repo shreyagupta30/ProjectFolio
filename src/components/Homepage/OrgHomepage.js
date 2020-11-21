@@ -16,10 +16,10 @@ const OrgHomepage = () => {
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
-            <h2 className="text-white text-lg title-font font-medium">Shooting Stars</h2>
+            <h2 className="text-white text-lg title-font font-medium">React</h2>
           </div>
           <div className="flex-grow">
-            <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+            <p className="leading-relaxed text-base">A declarative, efficient, and flexible JavaScript library for building user interfaces.</p>
             <a className="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24" style={{darkreaderInlineFill:"none", darkreaderInlineStroke:"currentColor"}} data-darkreader-inline-fill="" data-darkreader-inline-stroke="">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -37,10 +37,10 @@ const OrgHomepage = () => {
                 <circle cx="12" cy="7" r="4"></circle>
               </svg>
             </div>
-            <h2 className="text-white text-lg title-font font-medium">The Catalyzer</h2>
+            <h2 className="text-white text-lg title-font font-medium">react-native</h2>
           </div>
           <div className="flex-grow">
-            <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+            <p className="leading-relaxed text-base">A framework for building native apps with React.</p>
             <a className="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24" style={{darkreaderInlineFill:"none", darkreaderInlineStroke:"currentColor"}} data-darkreader-inline-fill="" data-darkreader-inline-stroke="">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -59,10 +59,10 @@ const OrgHomepage = () => {
                 <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
               </svg>
             </div>
-            <h2 className="text-white text-lg title-font font-medium">Neptune</h2>
+            <h2 className="text-white text-lg title-font font-medium">relay</h2>
           </div>
           <div className="flex-grow">
-            <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+            <p className="leading-relaxed text-base">Relay is a JavaScript framework for building data-driven React applications.</p>
             <a className="mt-3 text-indigo-500 inline-flex items-center">Learn More
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24" style={{darkreaderInlineFill:"none", darkreaderInlineStroke:"currentColor"}} data-darkreader-inline-fill="" data-darkreader-inline-stroke="">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
