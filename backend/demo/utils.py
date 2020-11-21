@@ -2,7 +2,7 @@ from django.shortcuts import render
 import os
 import requests
 import json
-from .models import Project, MLHMember
+from .models import Project, MLHMember, Commit
 from django.http import JsonResponse
 from django.http import HttpResponse
 
@@ -43,16 +43,18 @@ def get_list_of_all_forks():
     """gets the list of all the forked repos"""
     url = "https://api.github.com/orgs/mlh-fellowship/repos?type=forks"
     all_repos = []
-    for i in range(1,6):
+    for i in range(1, 6):
         each_url = url + '&page=' + str(i)
         result = github_api(each_url)
         for repo in result.json():
             all_repos.append(repo['name'])
     return all_repos
 
+
 def number_of_forks():
     """Number of Forks"""
     return len(get_list_of_all_forks())
+
 
 def total_member_countries():
     """Numebr of Countries Fellows have part from"""
@@ -72,11 +74,12 @@ def total_member_countries():
 
     return set(all_users_countries)
 
+
 def get_all_forks(request):
     """gets the list of all the forked repos"""
     url = "https://api.github.com/orgs/mlh-fellowship/repos?type=forks"
     all_repos = []
-    for i in range(1,6):
+    for i in range(1, 6):
         each_url = url + '&page=' + str(i)
         result = github_api(each_url)
         for repo in result.json():
@@ -88,6 +91,7 @@ def get_all_forks(request):
             parent = parent.json()
 
             avatar = parent['parent']['owner']['avatar_url']
+            commits_url = parent['source']['commits_url']
             each_repo.append(avatar)
 
             each_repo.append(repo['html_url'])
@@ -95,7 +99,8 @@ def get_all_forks(request):
             project = Project.objects.create(name=each_repo[0],
                                              description=each_repo[1],
                                              avatar_url=each_repo[2],
-                                             project_url=each_repo[3])
+                                             project_url=each_repo[3],
+                                             commits_url=commits_url)
             project.save()
             print(each_repo)
 
@@ -109,3 +114,43 @@ def get_all_forks(request):
 
     return HttpResponse('')
 
+
+def map_commits_with_member(all_members, response, project_name):
+
+    for r in response.json():
+        try:
+            if r['author']['login'] in all_members:
+
+                commit = Commit.objects.create(
+                    author=r['author']['login'],
+                    project=project_name,
+                    description=r['commit']['message'],
+                    commit_url=r['html_url'],
+                )
+                commit.save()
+        except:
+            pass
+    return
+
+
+def get_commits(request):
+    members = MLHMember.objects.all()
+    all_members = []
+    for member in members:
+        all_members.append(member.name)
+
+    projects = Project.objects.all()
+    for project in projects:
+        project_name = project.name
+        commit_url = project.commits_url
+        url = commit_url[:len(commit_url) - 6] + "?since=2020-06-01T00:00:00Z"
+        print(url)
+
+        response = github_api(url)
+        map_commits_with_member(all_members, response, project_name)
+        while response.links.get('next'):
+            response = github_api(response.links['next']['url'])
+            print(response)
+            map_commits_with_member(all_members, response, project_name)
+
+    return HttpResponse(all_members)
