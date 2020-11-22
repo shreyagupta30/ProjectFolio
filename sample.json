@@ -1,0 +1,746 @@
+[
+    [
+        "react",
+        "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/react"
+    ],
+    [
+        "react-native",
+        "A framework for building native apps with React.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/react-native"
+    ],
+    [
+        "relay",
+        "Relay is a JavaScript framework for building data-driven React applications.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/relay"
+    ],
+    [
+        "jest",
+        "Delightful JavaScript Testing.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/jest"
+    ],
+    [
+        "react-jsonschema-form",
+        "A React component for building Web forms from JSON Schema.",
+        "https://avatars1.githubusercontent.com/u/54508719?v=4",
+        "https://github.com/MLH-Fellowship/react-jsonschema-form"
+    ],
+    [
+        "julia",
+        "The Julia Language: A fresh approach to technical computing.",
+        "https://avatars0.githubusercontent.com/u/743164?v=4",
+        "https://github.com/MLH-Fellowship/julia"
+    ],
+    [
+        "next.js",
+        "The React Framework",
+        "https://avatars0.githubusercontent.com/u/14985020?v=4",
+        "https://github.com/MLH-Fellowship/next.js"
+    ],
+    [
+        "docusaurus",
+        "Easy to maintain open source documentation websites.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/docusaurus"
+    ],
+    [
+        "0.3.2-team1-startify",
+        "The next big thing, disrupting the startup industry",
+        "https://avatars0.githubusercontent.com/u/38243574?v=4",
+        "https://github.com/MLH-Fellowship/0.3.2-team1-startify"
+    ],
+    [
+        "scikit-learn",
+        "scikit-learn: machine learning in Python",
+        "https://avatars2.githubusercontent.com/u/365630?v=4",
+        "https://github.com/MLH-Fellowship/scikit-learn"
+    ],
+    [
+        "keras-io",
+        "Keras documentation, hosted live at keras.io",
+        "https://avatars0.githubusercontent.com/u/34455048?v=4",
+        "https://github.com/MLH-Fellowship/keras-io"
+    ],
+    [
+        "circuitpython",
+        "CircuitPython - a Python implementation for teaching coding with microcontrollers",
+        "https://avatars3.githubusercontent.com/u/181069?v=4",
+        "https://github.com/MLH-Fellowship/circuitpython"
+    ],
+    [
+        "BentoML",
+        "Model Serving Made Easy",
+        "https://avatars0.githubusercontent.com/u/49176046?v=4",
+        "https://github.com/MLH-Fellowship/BentoML"
+    ],
+    [
+        "meshroom",
+        "3D Reconstruction Software",
+        "https://avatars0.githubusercontent.com/u/9333123?v=4",
+        "https://github.com/MLH-Fellowship/meshroom"
+    ],
+    [
+        "AliceVision",
+        "Photogrammetric Computer Vision Framework",
+        "https://avatars0.githubusercontent.com/u/9333123?v=4",
+        "https://github.com/MLH-Fellowship/AliceVision"
+    ],
+    [
+        "Latest-Images",
+        null,
+        "https://avatars3.githubusercontent.com/u/1074039?v=4",
+        "https://github.com/MLH-Fellowship/Latest-Images"
+    ],
+    [
+        "cloud9-examples",
+        null,
+        "https://avatars3.githubusercontent.com/u/1074039?v=4",
+        "https://github.com/MLH-Fellowship/cloud9-examples"
+    ],
+    [
+        "ohmyzsh",
+        "\ud83d\ude43 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+        "https://avatars1.githubusercontent.com/u/22552083?v=4",
+        "https://github.com/MLH-Fellowship/ohmyzsh"
+    ],
+    [
+        "brew",
+        "\ud83c\udf7a The missing package manager for macOS (or Linux)",
+        "https://avatars2.githubusercontent.com/u/1503512?v=4",
+        "https://github.com/MLH-Fellowship/brew"
+    ],
+    [
+        "homebrew-core",
+        "\ud83c\udf7b Default formulae for the missing package manager for macOS",
+        "https://avatars2.githubusercontent.com/u/1503512?v=4",
+        "https://github.com/MLH-Fellowship/homebrew-core"
+    ],
+    [
+        "docsify",
+        "\ud83c\udccf A magical documentation site generator.",
+        "https://avatars3.githubusercontent.com/u/40133106?v=4",
+        "https://github.com/MLH-Fellowship/docsify"
+    ],
+    [
+        "amplify-js",
+        "A declarative JavaScript library for application development using cloud services.",
+        "https://avatars0.githubusercontent.com/u/41077760?v=4",
+        "https://github.com/MLH-Fellowship/amplify-js"
+    ],
+    [
+        "n8n",
+        "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+        "https://avatars1.githubusercontent.com/u/45487711?v=4",
+        "https://github.com/MLH-Fellowship/n8n"
+    ],
+    [
+        "amplify-cli",
+        "A CLI toolchain for simplifying serverless web and mobile development.",
+        "https://avatars0.githubusercontent.com/u/41077760?v=4",
+        "https://github.com/MLH-Fellowship/amplify-cli"
+    ],
+    [
+        "webaverse",
+        null,
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/webaverse"
+    ],
+    [
+        "xrpackage",
+        "XR (VR+AR) web object packaging",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/xrpackage"
+    ],
+    [
+        "xrpackage-cli",
+        "XRPackage command line interface",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/xrpackage-cli"
+    ],
+    [
+        "dev.to",
+        "Where programmers share ideas and help each other grow",
+        "https://avatars0.githubusercontent.com/u/65030610?v=4",
+        "https://github.com/MLH-Fellowship/dev.to"
+    ],
+    [
+        "babel",
+        "\ud83d\udc20 Babel is a compiler for writing next generation JavaScript.",
+        "https://avatars1.githubusercontent.com/u/9637642?v=4",
+        "https://github.com/MLH-Fellowship/babel"
+    ],
+    [
+        "sheetjs",
+        ":green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit",
+        "https://avatars0.githubusercontent.com/u/5826089?v=4",
+        "https://github.com/MLH-Fellowship/sheetjs"
+    ],
+    [
+        "how-to-get-help",
+        "Support Etiquettes for Hackers",
+        "https://avatars3.githubusercontent.com/u/318295?v=4",
+        "https://github.com/MLH-Fellowship/how-to-get-help"
+    ],
+    [
+        "prism-frontend",
+        "Frontend interface for WFP PRISM",
+        "https://avatars2.githubusercontent.com/u/19554115?v=4",
+        "https://github.com/MLH-Fellowship/prism-frontend"
+    ],
+    [
+        "react-native-website",
+        "The site and docs for React Native",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/react-native-website"
+    ],
+    [
+        "click",
+        "Python composable command line interface toolkit",
+        "https://avatars3.githubusercontent.com/u/16748505?v=4",
+        "https://github.com/MLH-Fellowship/click"
+    ],
+    [
+        "werkzeug",
+        "The comprehensive WSGI web application library.",
+        "https://avatars3.githubusercontent.com/u/16748505?v=4",
+        "https://github.com/MLH-Fellowship/werkzeug"
+    ],
+    [
+        "typer",
+        "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+        "https://avatars0.githubusercontent.com/u/1326112?v=4",
+        "https://github.com/MLH-Fellowship/typer"
+    ],
+    [
+        "fastapi",
+        "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "https://avatars0.githubusercontent.com/u/1326112?v=4",
+        "https://github.com/MLH-Fellowship/fastapi"
+    ],
+    [
+        "howdoi",
+        "instant coding answers via the command line",
+        "https://avatars1.githubusercontent.com/u/395254?v=4",
+        "https://github.com/MLH-Fellowship/howdoi"
+    ],
+    [
+        "httpie",
+        "As easy as HTTPie /aitch-tee-tee-pie/  \ud83e\udd67 Modern command-line HTTP client \u2013 user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp",
+        "https://avatars0.githubusercontent.com/u/24454777?v=4",
+        "https://github.com/MLH-Fellowship/httpie"
+    ],
+    [
+        "jinja",
+        "A very fast and expressive template engine.",
+        "https://avatars3.githubusercontent.com/u/16748505?v=4",
+        "https://github.com/MLH-Fellowship/jinja"
+    ],
+    [
+        "flask",
+        "The Python micro framework for building web applications.",
+        "https://avatars3.githubusercontent.com/u/16748505?v=4",
+        "https://github.com/MLH-Fellowship/flask"
+    ],
+    [
+        "scheduling-profiler-prototype",
+        "Custom profiler prototype for React's concurrent mode",
+        "https://avatars0.githubusercontent.com/u/29597?v=4",
+        "https://github.com/MLH-Fellowship/scheduling-profiler-prototype"
+    ],
+    [
+        "OrdinaryDiffEq.jl",
+        "DiffEq solvers for ordinary differential equations",
+        "https://avatars3.githubusercontent.com/u/21238080?v=4",
+        "https://github.com/MLH-Fellowship/OrdinaryDiffEq.jl"
+    ],
+    [
+        "DiffEqFlux.jl",
+        "Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers",
+        "https://avatars3.githubusercontent.com/u/21238080?v=4",
+        "https://github.com/MLH-Fellowship/DiffEqFlux.jl"
+    ],
+    [
+        "KeywordDispatch.jl",
+        "Dispatch on keyword arguments",
+        "https://avatars3.githubusercontent.com/u/1692009?v=4",
+        "https://github.com/MLH-Fellowship/KeywordDispatch.jl"
+    ],
+    [
+        "Pluto.jl",
+        "\u26a1 Lightweight reactive notebooks for Julia",
+        "https://avatars2.githubusercontent.com/u/6933510?v=4",
+        "https://github.com/MLH-Fellowship/Pluto.jl"
+    ],
+    [
+        "docs",
+        "Webaverse documentation",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/docs"
+    ],
+    [
+        "react-docgen",
+        "A CLI and toolbox to extract information from React component files for documentation generation purposes.",
+        "https://avatars3.githubusercontent.com/u/6412038?v=4",
+        "https://github.com/MLH-Fellowship/react-docgen"
+    ],
+    [
+        "ImageQualityIndexes.jl",
+        "Indexes for image quality assessment",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/ImageQualityIndexes.jl"
+    ],
+    [
+        "Plots.jl",
+        "Powerful convenience for Julia visualizations and data analysis",
+        "https://avatars1.githubusercontent.com/u/19197049?v=4",
+        "https://github.com/MLH-Fellowship/Plots.jl"
+    ],
+    [
+        "FluxModels.jl",
+        " Standard (pre-trained) ML models written in Flux.jl",
+        "https://avatars2.githubusercontent.com/u/4811350?v=4",
+        "https://github.com/MLH-Fellowship/FluxModels.jl"
+    ],
+    [
+        "qrvr",
+        "SteamVR QR code reader for node.js",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/qrvr"
+    ],
+    [
+        "metachromium",
+        "Chromium for WebXR AR-in-VR overlays",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/metachromium"
+    ],
+    [
+        "amplify-docs",
+        "Amplify Framework Documentation",
+        "https://avatars0.githubusercontent.com/u/41077760?v=4",
+        "https://github.com/MLH-Fellowship/amplify-docs"
+    ],
+    [
+        "docsify-cli",
+        "\ud83d\udd8c docsify cli tool - A magical documentation generator.",
+        "https://avatars3.githubusercontent.com/u/40133106?v=4",
+        "https://github.com/MLH-Fellowship/docsify-cli"
+    ],
+    [
+        "n8n-docs",
+        "n8n Documentation",
+        "https://avatars1.githubusercontent.com/u/45487711?v=4",
+        "https://github.com/MLH-Fellowship/n8n-docs"
+    ],
+    [
+        "Flux.jl",
+        "Relax! Flux is the ML library that doesn't make you tensor",
+        "https://avatars2.githubusercontent.com/u/26222520?v=4",
+        "https://github.com/MLH-Fellowship/Flux.jl"
+    ],
+    [
+        "Surrogates.jl",
+        "Surrogate modeling and optimization",
+        "https://avatars3.githubusercontent.com/u/21238080?v=4",
+        "https://github.com/MLH-Fellowship/Surrogates.jl"
+    ],
+    [
+        "NeuralNetDiffEq.jl",
+        "Physics-Informed Neural Network and Deep BSDE Solvers of Differential Equations",
+        "https://avatars3.githubusercontent.com/u/21238080?v=4",
+        "https://github.com/MLH-Fellowship/NeuralNetDiffEq.jl"
+    ],
+    [
+        "SpikingNN.jl",
+        "An event-driven spiking neural network simulator",
+        "https://avatars2.githubusercontent.com/u/4811350?v=4",
+        "https://github.com/MLH-Fellowship/SpikingNN.jl"
+    ],
+    [
+        "termux-app",
+        "Android terminal and Linux environment - app repository.",
+        "https://avatars0.githubusercontent.com/u/8104776?v=4",
+        "https://github.com/MLH-Fellowship/termux-app"
+    ],
+    [
+        "avatars",
+        "Avatar system for Exokit",
+        "https://avatars1.githubusercontent.com/u/37630640?v=4",
+        "https://github.com/MLH-Fellowship/avatars"
+    ],
+    [
+        "NNlib.jl",
+        "Neural Network primitives with multiple backends",
+        "https://avatars2.githubusercontent.com/u/26222520?v=4",
+        "https://github.com/MLH-Fellowship/NNlib.jl"
+    ],
+    [
+        "SymbolicMathematics",
+        "Deep Learning for Symbolic Mathematics",
+        "https://avatars0.githubusercontent.com/u/16943930?v=4",
+        "https://github.com/MLH-Fellowship/SymbolicMathematics"
+    ],
+    [
+        "xrpackage-site",
+        null,
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/xrpackage-site"
+    ],
+    [
+        "litho",
+        "A declarative framework for building efficient UIs on Android.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/litho"
+    ],
+    [
+        "threejs-demo",
+        null,
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/threejs-demo"
+    ],
+    [
+        "aframe-demo",
+        null,
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/aframe-demo"
+    ],
+    [
+        "discord-cloudflare",
+        "Discord webhook frontend for Webaverse",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/discord-cloudflare"
+    ],
+    [
+        "discord-lambda",
+        "Discord lambda backend for Webaverse",
+        "https://avatars1.githubusercontent.com/u/53183940?v=4",
+        "https://github.com/MLH-Fellowship/discord-lambda"
+    ],
+    [
+        "tsd",
+        "Check TypeScript type definitions",
+        "https://avatars2.githubusercontent.com/u/1913805?v=4",
+        "https://github.com/MLH-Fellowship/tsd"
+    ],
+    [
+        "PlotDocs.jl",
+        "Documentation for Plots.jl",
+        "https://avatars1.githubusercontent.com/u/19197049?v=4",
+        "https://github.com/MLH-Fellowship/PlotDocs.jl"
+    ],
+    [
+        "python-lda",
+        "LDA in Python.",
+        "https://avatars1.githubusercontent.com/u/873454?v=4",
+        "https://github.com/MLH-Fellowship/python-lda"
+    ],
+    [
+        "cli",
+        "React Native command line tools",
+        "https://avatars1.githubusercontent.com/u/20269980?v=4",
+        "https://github.com/MLH-Fellowship/cli"
+    ],
+    [
+        "glider",
+        "App for editing Python on mobile devices wirelessly",
+        "https://avatars3.githubusercontent.com/u/181069?v=4",
+        "https://github.com/MLH-Fellowship/glider"
+    ],
+    [
+        "slate",
+        "A completely customizable framework for building rich text editors. (Currently in beta.)",
+        "https://avatars0.githubusercontent.com/u/311752?v=4",
+        "https://github.com/MLH-Fellowship/slate"
+    ],
+    [
+        "PRUCookbook",
+        "This is a cookbook of the Programmable Realtime Unit on the BeagleBoard",
+        "https://avatars1.githubusercontent.com/u/660054?v=4",
+        "https://github.com/MLH-Fellowship/PRUCookbook"
+    ],
+    [
+        "juliaimages.github.io",
+        "Documentation For JuliaImages",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/juliaimages.github.io"
+    ],
+    [
+        "18S096SciML",
+        "18.S096 - Applications of Scientific Machine Learning",
+        "https://avatars3.githubusercontent.com/u/47117905?v=4",
+        "https://github.com/MLH-Fellowship/18S096SciML"
+    ],
+    [
+        "tokenize-comment",
+        "Uses snapdragon to tokenize a single JavaScript block comment into an object, with description, tags, and code example sections that can be passed to any other comment parsers for further parsing.",
+        "https://avatars0.githubusercontent.com/u/383994?v=4",
+        "https://github.com/MLH-Fellowship/tokenize-comment"
+    ],
+    [
+        "ImageInpainting.jl",
+        "Image inpainting algorithms in Julia",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/ImageInpainting.jl"
+    ],
+    [
+        "ImageDraw.jl",
+        "Drawing Package for JuliaImages",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/ImageDraw.jl"
+    ],
+    [
+        "bentoml-gallery",
+        "BentoML Example Projects Gallery",
+        "https://avatars0.githubusercontent.com/u/49176046?v=4",
+        "https://github.com/MLH-Fellowship/bentoml-gallery"
+    ],
+    [
+        "mlflow",
+        "Open source platform for the machine learning lifecycle",
+        "https://avatars3.githubusercontent.com/u/39938107?v=4",
+        "https://github.com/MLH-Fellowship/mlflow"
+    ],
+    [
+        "chest",
+        null,
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/chest"
+    ],
+    [
+        "grass",
+        null,
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/grass"
+    ],
+    [
+        "cloud",
+        null,
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/cloud"
+    ],
+    [
+        "multitree",
+        "WebXR multi-trees",
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/multitree"
+    ],
+    [
+        "bb.org-overlays",
+        "Device Tree Overlays for bb.org boards",
+        "https://avatars3.githubusercontent.com/u/1074039?v=4",
+        "https://github.com/MLH-Fellowship/bb.org-overlays"
+    ],
+    [
+        "ImageInTerminal.jl",
+        "Julia package for displaying images in the terminal using ANSI colors and Unicode characters",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/ImageInTerminal.jl"
+    ],
+    [
+        "ocean",
+        "WebXR Ocean",
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/ocean"
+    ],
+    [
+        "skybox",
+        "WebXR Skybox",
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/skybox"
+    ],
+    [
+        "sprite",
+        "WebXR Sprites",
+        "https://avatars0.githubusercontent.com/u/6926057?v=4",
+        "https://github.com/MLH-Fellowship/sprite"
+    ],
+    [
+        "CDSAPI.jl",
+        "Julia API to the Climate Data Store (a.k.a. CDS)",
+        "https://avatars1.githubusercontent.com/u/41747566?v=4",
+        "https://github.com/MLH-Fellowship/CDSAPI.jl"
+    ],
+    [
+        "typer-cli",
+        "Run Typer scripts with completion, without having to create a package, using Typer CLI.",
+        "https://avatars0.githubusercontent.com/u/1326112?v=4",
+        "https://github.com/MLH-Fellowship/typer-cli"
+    ],
+    [
+        "backup-bot",
+        "Discord bot that counts the number of messages per user and per channel in a server.",
+        "https://avatars3.githubusercontent.com/u/62120583?v=4",
+        "https://github.com/MLH-Fellowship/backup-bot"
+    ],
+    [
+        "next-site",
+        "The official website for Next.js",
+        "https://avatars1.githubusercontent.com/u/7230207?v=4",
+        "https://github.com/MLH-Fellowship/next-site"
+    ],
+    [
+        "adafruit-beaglebone-io-python",
+        "Adafruit's BeagleBone IO Python Library",
+        "https://avatars3.githubusercontent.com/u/181069?v=4",
+        "https://github.com/MLH-Fellowship/adafruit-beaglebone-io-python"
+    ],
+    [
+        "babel-sandbox",
+        "Babel repl-like codesandbox: check out link =>",
+        "https://avatars1.githubusercontent.com/u/9637642?v=4",
+        "https://github.com/MLH-Fellowship/babel-sandbox"
+    ],
+    [
+        "nodemaker",
+        "Desktop app and CLI utility for auto\u2011generating n8n nodes",
+        "https://avatars3.githubusercontent.com/u/44588767?v=4",
+        "https://github.com/MLH-Fellowship/nodemaker"
+    ],
+    [
+        "ImageCore.jl",
+        "Julia types for representing images",
+        "https://avatars1.githubusercontent.com/u/13722934?v=4",
+        "https://github.com/MLH-Fellowship/ImageCore.jl"
+    ],
+    [
+        "linux",
+        "The official BeagleBoard and BeagleBone kernel repository",
+        "https://avatars3.githubusercontent.com/u/1074039?v=4",
+        "https://github.com/MLH-Fellowship/linux"
+    ],
+    [
+        "enzyme",
+        "JavaScript Testing utilities for React",
+        "https://avatars3.githubusercontent.com/u/60945302?v=4",
+        "https://github.com/MLH-Fellowship/enzyme"
+    ],
+    [
+        "nvm",
+        "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "https://avatars3.githubusercontent.com/u/49963700?v=4",
+        "https://github.com/MLH-Fellowship/nvm"
+    ],
+    [
+        "resolve",
+        "Implements the node.js require.resolve() algorithm",
+        "https://avatars2.githubusercontent.com/u/6320506?v=4",
+        "https://github.com/MLH-Fellowship/resolve"
+    ],
+    [
+        "hermes",
+        "Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.",
+        "https://avatars3.githubusercontent.com/u/69631?v=4",
+        "https://github.com/MLH-Fellowship/hermes"
+    ],
+    [
+        "amplify-js-samples",
+        "A Sample Repository for Amplify JS Samples",
+        "https://avatars0.githubusercontent.com/u/41077760?v=4",
+        "https://github.com/MLH-Fellowship/amplify-js-samples"
+    ],
+    [
+        "pallets-sphinx-themes",
+        "Sphinx themes for Pallets and related projects.",
+        "https://avatars3.githubusercontent.com/u/16748505?v=4",
+        "https://github.com/MLH-Fellowship/pallets-sphinx-themes"
+    ],
+    [
+        "Flux3D.jl",
+        "3D computer vision library in Julia",
+        "https://avatars2.githubusercontent.com/u/26222520?v=4",
+        "https://github.com/MLH-Fellowship/Flux3D.jl"
+    ],
+    [
+        "Documenter.jl",
+        "A documentation generator for Julia.",
+        "https://avatars1.githubusercontent.com/u/19620248?v=4",
+        "https://github.com/MLH-Fellowship/Documenter.jl"
+    ],
+    [
+        "webxr-samples",
+        "Samples to demonstrate use of the WebXR Device API",
+        "https://avatars3.githubusercontent.com/u/34385910?v=4",
+        "https://github.com/MLH-Fellowship/webxr-samples"
+    ],
+    [
+        "MusicXML.jl",
+        "MusicXML in Julia",
+        "https://avatars0.githubusercontent.com/u/39520806?v=4",
+        "https://github.com/MLH-Fellowship/MusicXML.jl"
+    ],
+    [
+        "sktime",
+        "A unified toolbox for machine learning with time series",
+        "https://avatars1.githubusercontent.com/u/18304793?v=4",
+        "https://github.com/MLH-Fellowship/sktime"
+    ],
+    [
+        "Kiwi",
+        "the leading open source test management system",
+        "https://avatars0.githubusercontent.com/u/31894430?v=4",
+        "https://github.com/MLH-Fellowship/Kiwi"
+    ],
+    [
+        "Metalhead.jl",
+        "Computer vision models for Flux",
+        "https://avatars2.githubusercontent.com/u/26222520?v=4",
+        "https://github.com/MLH-Fellowship/Metalhead.jl"
+    ],
+    [
+        "model-zoo",
+        "Please do not feed the models",
+        "https://avatars2.githubusercontent.com/u/26222520?v=4",
+        "https://github.com/MLH-Fellowship/model-zoo"
+    ],
+    [
+        "Notelify",
+        "One place for all your school reminders",
+        "https://avatars0.githubusercontent.com/u/44341551?v=4",
+        "https://github.com/MLH-Fellowship/Notelify"
+    ],
+    [
+        "forem-browser-extension",
+        "The Forem browser extension which allows users to seamlessly navigate between communities.",
+        "https://avatars0.githubusercontent.com/u/65030610?v=4",
+        "https://github.com/MLH-Fellowship/forem-browser-extension"
+    ],
+    [
+        "GeoStats.jl",
+        "An extensible framework for high-performance geostatistics in Julia",
+        "https://avatars3.githubusercontent.com/u/59541313?v=4",
+        "https://github.com/MLH-Fellowship/GeoStats.jl"
+    ],
+    [
+        "GlobalDiffEq.jl",
+        "Differential equation solvers with global error estimation",
+        "https://avatars3.githubusercontent.com/u/21238080?v=4",
+        "https://github.com/MLH-Fellowship/GlobalDiffEq.jl"
+    ],
+    [
+        "GeoStatsTutorials",
+        "Tutorials in the form of Jupyter notebooks for the GeoStats.jl framework",
+        "https://avatars3.githubusercontent.com/u/59541313?v=4",
+        "https://github.com/MLH-Fellowship/GeoStatsTutorials"
+    ],
+    [
+        "Friend-Time",
+        "Discord bot - Automatically convert times mentioned in chat between time zones!",
+        "https://avatars2.githubusercontent.com/u/11231402?v=4",
+        "https://github.com/MLH-Fellowship/Friend-Time"
+    ],
+    [
+        "Meshes.jl",
+        "Finite element meshes in Julia",
+        "https://avatars3.githubusercontent.com/u/10924607?v=4",
+        "https://github.com/MLH-Fellowship/Meshes.jl"
+    ],
+    [
+        "pyflakes",
+        "A simple program which checks Python source files for errors",
+        "https://avatars0.githubusercontent.com/u/8749848?v=4",
+        "https://github.com/MLH-Fellowship/pyflakes"
+    ]
+]
