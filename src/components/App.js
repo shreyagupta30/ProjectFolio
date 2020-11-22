@@ -7,20 +7,22 @@ import OrgList from './ProjectsList/OrgPage';
 import OrgIndPage from './OrgIndPage/OrgIndPage'
 import Footer from './Footer';
 
-function App() {
-  return (
-    <>
-    <Router>
-      <Navbar />
-      <Switch>
-        <Route exact path="/" component={Homepage} />
-        <Route exact path= "/projects" component={OrgList} />
-        <Route exact path="/org" component={OrgIndPage} />
-      </Switch>
-      <Footer />
-    </Router>
-    </>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={Homepage} />
+          <Route exact path= "/projects" component={OrgList} />
+          <Route exact path="/org" component={OrgIndPage} />
+        </Switch>
+        <Footer />
+      </Router>
+      </>
+    );
+  }
 }
 
 export default App;
