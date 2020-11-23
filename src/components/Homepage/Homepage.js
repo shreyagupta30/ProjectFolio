@@ -30,7 +30,7 @@ function Homepage() {
                 </div>
                 </div>
                 <div className="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
-                <img className="object-cover object-center w-full h-full" src="https://cdn.discordapp.com/attachments/776814432817774633/779430114529771520/ProjectFolio_logo.png" alt="stats" />
+                <img className="object-cover object-center w-half h-half" src="https://cdn.discordapp.com/attachments/776814432817774633/779430114529771520/ProjectFolio_logo.png" alt="stats" />
                 </div>
                 {/* <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Apply Now!</button> */}
         </div>
