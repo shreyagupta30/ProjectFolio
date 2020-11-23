@@ -45,7 +45,14 @@ Thus it will be super easy to find any particular project and get details of all
 The whole design and UI are developed to be in sync with the existing fellowship website so that it can easily be integrated into to website if required.
 
 ### Screenshots
-> Screenshots comes here
+![Screenshot1](screenshots/ss1.jpeg)
+
+![Screenshot2](screenshots/ss2.jpeg)
+
+![Screenshot3](screenshots/ss3.jpeg)
+
+### Wireframes
+![Wireframes](screenshots/wireframes.jpg)
 
 ## What's next for ProjectFolio
 Some features which are currently in pipeline
